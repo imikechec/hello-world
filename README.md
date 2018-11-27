@@ -1,2 +1,2 @@
 # hello-world
-Shalom goyim
+My name is Mike and I'm learning how to code efficiently.
